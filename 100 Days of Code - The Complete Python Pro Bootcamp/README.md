@@ -13,15 +13,15 @@ It contains beginner exercises, guided solutions, and small projects that show t
 
 ## Repository Layout
 
-- [Day 1](Day%201/): printing, variables, naming, and string basics.
-- [Day 2](Day%202/): data types, arithmetic, type conversion, and a tip calculator.
-- [Day 3](Day%203/): conditionals, logic, nesting, and the first text adventure project.
-- [Day 4](Day%204/): lists, random selection, and simple game logic.
-- [Day 5](Day%205/): loops, scoring, and a password generator.
-- [Day 6](Day%206/): functions and reusable code.
-- [Day 7](Day%207/): hangman project material and supporting assets.
-- [Day 8](Day%208/): function inputs, argument styles, and Caesar cipher exercises.
-- [Day 9](Day%209/): dictionaries, nested data, and the blind auction project.
+- [Day 01](Day%2001/): printing, variables, naming, and string basics.
+- [Day 02](Day%2002/): data types, arithmetic, type conversion, and a tip calculator.
+- [Day 03](Day%2003/): conditionals, logic, nesting, and the first text adventure project.
+- [Day 04](Day%2004/): lists, random selection, and simple game logic.
+- [Day 05](Day%2005/): loops, scoring, and a password generator.
+- [Day 06](Day%2006/): functions and reusable code.
+- [Day 07](Day%2007/): hangman project material and supporting assets.
+- [Day 08](Day%2008/): function inputs, argument styles, and Caesar cipher exercises.
+- [Day 09](Day%2009/): dictionaries, nested data, and the blind auction project.
 - [Day 10](Day%2010/): docstrings, returns, and the calculator project.
 - [Day 11](Day%2011/): blackjack project assets and game scaffold.
 - [Day 12](Day%2012/): scope, namespaces, globals, and the number guessing project.
